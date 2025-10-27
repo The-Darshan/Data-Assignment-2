@@ -40,4 +40,4 @@ This project demonstrates how to fetch data from external APIs, process it using
 <img src="./assets/Covid-19-Raw.png"/>
 
 ### 6. Covid-19 Transformed Data
-<img src ="./assets/Covid-19-Transformed"/>
+<img src ="./assets/Covid-19-Transformed.png"/>
