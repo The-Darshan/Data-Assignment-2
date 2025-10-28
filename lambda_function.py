@@ -52,7 +52,7 @@ def lambda_handler(event, context):
             try:
                 data, content_type = fetch_data(url)
 
-                if is_csv_url(url) or ('csv' in content_type.lower()):
+                if is_csv_url(url) :
                     data = csv_to_json(data)
                 else:
                     try:
